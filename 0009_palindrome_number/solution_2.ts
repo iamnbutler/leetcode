@@ -1,3 +1,7 @@
+// Solution for https://leetcode.com/problems/palindrome-number/description/
+// GPT *was* used to help find this more optimal solution
+// Orginal, by hand solution: https://github.com/iamnbutler/leetcode/blob/main/0009_palindrome_number/solution.ts
+
 function isPalindrome(x: number): boolean {
     // If x < 0 it can't be a palindrome
     // Any number that ends in 0 can't be a palindrome unless it is 0
