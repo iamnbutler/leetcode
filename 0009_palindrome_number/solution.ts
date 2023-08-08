@@ -1,3 +1,5 @@
+// Solution for https://leetcode.com/problems/palindrome-number/description/
+
 const isOdd = (x: number): boolean => { return Boolean(x & 1); };
 
 function isPalindrome(x: number): boolean {
